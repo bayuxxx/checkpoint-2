@@ -16,4 +16,4 @@ Berikut adalah dokumentasi dari dua sesi mentoring yang telah dilakukan dalam pe
 
 Gambar berikut menunjukkan cuplikan kode backend dari proyek ini:
 
-![Kode Backend](assets/backend-code.png)
+![Kode Backend](Screenshot 2025-05-26 083053.png)
